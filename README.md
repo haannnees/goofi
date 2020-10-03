@@ -55,4 +55,8 @@ Get result printed
 Hannes Wagner             
 Software Engineer         
 [Github](https://github.com/haannnees)              
-[LinkedIn](https://www.linkedin.com/in/hannes-wagner-171549128/)        
+[LinkedIn](https://www.linkedin.com/in/hannes-wagner-171549128/)          
+
+
+[![GitHub Super-Linter](https://github.com/haannnees/goofi/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/haannnees/goofi)
