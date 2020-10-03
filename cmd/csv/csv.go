@@ -4,7 +4,6 @@ import (
 	"encoding/csv"
 	"errors"
 	"fmt"
-	"log"
 	"net/http"
 	"net/url"
 	"os"
@@ -13,12 +12,12 @@ import (
 func OpenAndReadCSV(path string) ([][]string, error) {
 	file, err := os.Open(path)
 	if err != nil {
-		log.Fatalln("Couldn't open the csv file", err)
 		return nil, err
 	}
 
 	reader := csv.NewReader(file)
 	reader.Comma = ','
+
 	data, err := reader.ReadAll()
 	if err != nil {
 		return nil, err
@@ -30,17 +29,16 @@ func OpenAndReadCSV(path string) ([][]string, error) {
 func OpenAndWriteCSV(data [][]string, path string) error {
 	file, err := os.OpenFile(path, os.O_APPEND|os.O_WRONLY, os.ModeAppend)
 	if err != nil {
-		log.Print("Could not open file")
 		return err
 	}
 	defer file.Close()
 
 	writer := csv.NewWriter(file)
+	writer.Comma = ','
 	defer writer.Flush()
 
 	err = writer.WriteAll(data)
 	if err != nil {
-		log.Print("Could not write to file")
 		return err
 	}
 
@@ -50,17 +48,16 @@ func OpenAndWriteCSV(data [][]string, path string) error {
 func OpenAndWriteSingleLineToCSV(line []string, path string) error {
 	file, err := os.OpenFile(path, os.O_APPEND|os.O_WRONLY, os.ModeAppend)
 	if err != nil {
-		log.Print("Could not open file")
 		return err
 	}
 	defer file.Close()
 
 	writer := csv.NewWriter(file)
+	writer.Comma = ','
 	defer writer.Flush()
 
 	err = writer.Write(line)
 	if err != nil {
-		log.Print("Could not write to file")
 		return err
 	}
 
@@ -81,6 +78,7 @@ func OpenAndReadRemoteCSV(remoteUrl string) ([][]string, error) {
 	defer resp.Body.Close()
 	reader := csv.NewReader(resp.Body)
 	reader.Comma = ','
+
 	data, err := reader.ReadAll()
 	if err != nil {
 		return nil, err

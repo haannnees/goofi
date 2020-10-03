@@ -1,759 +1,724 @@
-A/D, Analog-to-Digital
-ABC, Atanasoff Berry Computer
-ACM, Association for Computing Machinery
-AI, Artificial Intelligence
-ALGOL, Algorithic Language
-ALU, Arithmetic Logic Unit
-AMD, Advanced Micro Devices
-API, Application Programming Interface
-ARPANET, Advanced Research Project Agency Network
-AOSP, Android Open Source Platform
-ASCII, American Standard Code for Information Interchange
-BASIC, Beginners All-purpose Symbolic Instruction Code
-BCD, Binary Coded Decimal
-BIOS, Basic Inpute Output System
-BIPS, Billions of Instructions Per Second
-BPI, Bytes Per Inch
-EMV, Enhanced Motion Vehicle
-EMV, Europay + Mastercard + Visa
-CAD, Computer Aided Design
-CAE, Computer Aided Engineering
-CAN, Campus Area Network
-CASE, Computer Aided Software Engineering
-CD, Compact Disk
-CDC, Control Data Corporation
-CD-R, CD-Recordable
-CD-ROM, Compact Disk Read Only Memory
-CD-RW, CD Read/Write
-CL, Command Language
-CSR, Certificate Signing request
-CA, Certificate Authority
-COBOL, Common Business Oriented
-CODASYL, Conference On Data Systems
-CPU, Central Processing Unit
-CRT, Cathode Ray Tube
-D/A, Digital-to-Analog
-DAT, Digital Audio Tape
-DBMS, Data Base Management System
-DBS, Demand Based Switching
-DDL, Data Definition Language
-DDS, Digital Data Storage
-DEC, Digital Equipment Corporation
-DMA, Direct Memory Access
-DNA, Digital Network Architecture
-DPI, Dots Per Inch
-DRAM, Dynamic RAM
-DSN, Distributed Systems Network
-DTS, Digital Theater System
-DVD, Digital Video/Versatile Disk
-EBCDIC, Extended Binary Coded Decimal Interchange Code
-EDSAC, Electronic Delay Storage Automatic Calculator
-EDVAC, Electronic Discrete Variable Automatic Calculator
-EFM, Eight-to-Fourteen Modulation
-ENIAC, Electronic Numerical Integrator And Calculator
-EPG, Electronic Programming Guide
-EPIC, Explicitly Parallel Instruction Computing
-EPROM, Erasable Programmable Read-Only Memory
-FAT, File Allocation Table
-FDM, Frequency Division Multiplexing
-FEP, Front End Processor
-FLOPS, Floating Point Operations Per Second
-FM, Frequency Modulation
-FMS, File Management System
-FORTRAN, FORmula TRANslation
-FSK, Frequency Shift Keying
-FTP, File Transfer Protocol
-GB, Giga Bytes
-GFLOPS, Giga FLOPS
-GHz, Giga Hertz
-GNU, Gnu Not Unix
-GPRS, General Packet Radio Service
-GSM, Global System for Mobile communication
-GUI, Graphical User Interface
-HDMI, High Definition Media Interface
-HP, Hewlett Packard
-HSS, Hierarchical Storage System
-HTML, HyperText Markup Language
-HTTP, HyperText Transport Protocol
-IBM, International Business Machine
-IC, Integrated Circuit
-IDN, Integrated Digital Networks
-IP, Internet Protocol
-IrDA, Infrared Data Association
-ISDN, Integrated Services Digital Network
-ISP, Internet Service Provider
-IT, Information Technology
-JPEG, Joint Photographic Experts Group
-JRE, Java Runtime Engine
-JSP, Java Server Pages
-KB, Kilo Bytes
-KHz, Kilo Hertz
-MCH, Memory Controller Hub
-AMOLED, Active-Matrix Organic Light Emitting Diodes
-LAN, Local Area Network
-LCD, Liquid Crystal Display
-LED, Light Emitting Diode
-LPM, Line Per Minute
-LSI, Large Scael Integration
-MAN, Metropolitan Area Network
-MAR, Memory Address Register
-MB, Mega Bytes
-MBR, Memory Buffer Register
-MBR, Master Boot Record
-MHz, Mega Hertz
-MIDI, Musical Instrument Digital Interface
-MIPS, Millions of Instructions Per Second
-MNP, Microcom Network Protocol
-MPEG, Moving Pictures Experts Group
-MS-DOS, MicroSoft Disk Operating System
-MVT, Multiprogramming with Variable Tasks
-NIC, Network Interface Card
-NICNET, National Informatics Center NETwork
-NOS, Network Operating System
-OCR, Optical Character Recognition
-OMR, Optical Mark Reader
-OS, Operating System
-OSI, Open System Interconnection
-OSS, Open Source Software
-PAN, Personal Area Network
-PC, Personal Computer
-PDF, Portable Document Format
-PDL, Program Design Language
-PDP, Program Data Processor
-PIP, Peripheral Interchange Program
-PROM, Programmable Read-Only Memory
-QoS, Quality of Service
-RAM, Random Access Memory
-ROM, Read Only Memory
-SDLC, Software Development Life Cycle
-SEQUEL, Structured English QUEry Language
-SGML, Syntax for Generalized Markup Language
-SIMM, Single In-line Memory Module
-SNA, Systems Network Architecture
-SNOBOL, StriNg Oriented and symBOlic Language
-SQL, Structured Query Language
-SRAM, Static RAM
-SSI, Small Scale Integration
-TB, Tera Bytes
-TCP, Transport Control Protocol
-TDM, Time Division Multiplexing
-UDP, 	User Datagram Protocol
-ULSI, Ultra Large Scale Integration
-UPC, Universal Product Code
-URL, Uniform Resource Locator
-USB, Universal Serial Bus
-UTF, Unicode Transformation Format
-VAN, Value Added Network
-VCR, Video Cassette Recorder
-VDT, Video Display Terminal
-VGA, Video Graphics Array
-VOD, Video-On-Demand
-VoIP, Voice over Internet Protocol
-VSAT, Very Small Aperture Terminal
-WAP, Wireless Application Protocol
-WiMAX, Worldwide Interoperability for Microwave Access
-WLAN, Wireless Local Area Network
-WLL, Wireless Local Loop
-WORM, Write Once Read Many
-WWW, World Wide Web
-XHTML, eXtensible HyperText Markup Language
-XML, eXtensible Markup Language
-X.400, Electronic Mail Protocol
-X.500, Directory Server Protocol
-AP, Access Point
-CAT, Catalog Service
-CC, Creative Commons
-FAI, Fully Automatic Installation
-FAQ, Frequently Asked Questions
-FAT, File Allocation Table
-FB, Facebook
-FC, Fibre Channel
-FD, Floppy Disk
-FDD, Floppy Disk Drive
-FDDI, Fiber Distributed Data Interface
-FDMA, Frequency Division Multiple Access
-FET, Field Effect Transistor
-FGA, Floating Gate Array
-FHSS, Frequency Hopping Spread Spectrum
-FIFO, First In – First Out
-FILO, First In – Last Out
-FLOPS, Floating Point Operations per Second
-FPGA, Field Programmable Gate Array
-FPLA, Field Programmable Logic Array
-FQDN, Fully Qualified Domain Name
-FSAA, Full Scene Antialiasing
-FSB, Front Side Bus
-FSM, Finite State Machine
-FTP, File Transfer Protocol
-FTTH, Fibre To The Home
-FW, Forwarding
-FW, Firewall
-AA, Advanced Analytics
-AAAI, Association for the Advancement of Artificial Intelligence
-APS, Azure Power Shell
-ARM, Azure Ressource Manager
-AAL, Active assisted living
-AAL, Ambient assisted living
-ABM, Agent-based Modeling
-ABP, Autonomous Business Process
-ABS, agent-based modeling
-ACD, Automatic Call Distribution
-ACM, Association for Computing Machinery
-ACS, Azure Container Service
-AKS, Azure Kubernetes Service
-ACO, Ant Colony Optimization
-AAC, Advanced Audio Coding
-AACS, Advanced Access Content System
-AAL, ATM Adaptation Layer
-AAM, ATA/ATAPI Architecture Model
-ACC, Adaptive Computing (Micro-)Controller
-SAP, Systeme + Anwendungen + Produkte
-ACE, ASCII Compatible Encoding
-ACL, Access Control List
-ACPI, Advanced Configuration and Power Interface
-ACS, Applied Computer Science
-ACR, Advanced Communication(s) Riser
-AD, Active Directory
-ADAM, Active Directory Application Mode
-ADAPT, Application Design for Analytical Processing Technologies
-ADB, Apple Desktop Bus
-ADB, Android Debug Bridge
-ADC, Apple Display Connector
-ADDS, Active Directory Domain Services
-ADO, ActiveX Data Objects
-ADO, Azure Devops
-ATPG, Automatic Test Pattern Generation
-ATX, Advanced Technology Extended
-AUI, Attachment Unit Interface
-AV, Anti-Virus
-AVI, Audio Video Interleave
-ASPI, Advanced SCSI Programming Interface
-AR, Augmented Reality
-APIC, Advanced Programmable Interrupt Controller
-APIPA, Automatic Private IP Addressing
-APL, A Programming Language
-APL, Abschlusspunkt Linientechnik
-APM, Advanced Power Management
-APOP, Authenticated Post Office Protocol
-APU, Accelerated Processing Unit
-AMD, Advanced Micro Devices
-AMQP, Advanced Message Queuing Protocol
-ANSI, American National Standards Institute
-AOP, Aspektorientierte Programmierung
-AP, Access Point
-POI, Point Of Interest
-ICS, IBM Cabling System
-ICS, iCalendar
-GIF, Graphics Interchange Format
-APDU, Application Protocol Data Unit
-AIA, Authority Information Access
-AIFF, Audio Interchange File Format
-AIM, AOL Instant Messenger
-AIR, Adobe Integrated Runtime
-AIT, Advanced Intelligent Tape
-AJAX, Asynchronous JavaScript and XML
-AI, Artificial Intelligence
-AEP, AppleTalk Echo Protocol
-AES, Advanced Encryption Standard
-AF, Anisotropes Filtern
-AFK, Away from Keyboard
-AFP, Apple Filing Protocol
-YB, Yottabyte
-ZB, Zetabyte
-B2A, Business-to-Administration
-B2B, Business-to-Business
-B2C, Business-to-Consumer
-B2E, Business-to-Employee
-BCD, Binary Coded Decimal
-BCPL, Basic Combined Programming Language
-BD, Blu-ray Disc
-BDC, Backup Domain Controller
-BDD, Binary Decision Diagram
-BER, Basic Encoding Rules
-BFD, Bidirectional Forwarding Detection
-BGA, Ball Grid Array
-BGP, Border Gateway Protocol
-BiDi, Bidirectional Text Layout
-BPEL, Business Process Execution Language
-BSC, Binary Synchronous Communication
-BSD, Berkeley Software Distribution
-BSOD, Blue Screen of Death
-BTO, Build-to-Order
-BTX, Balanced Technology Extended
-BOFH, Bastard Operator From Hell
-BOM, Byte Order Mark
-BOOTP, Bootstrap Protocol
-BIOS, Basic Input Output System
-BLOB, Binary Large Object
-BI, Business Intelligence
-NSG, Network Security Group
-ACL, Access Control List
-PIP, Public IP
-DAU, Dümmster anzunehmender User
-DAE, Digital Audio Extraction
-DAL, Data Abstraction Layer
-DAO, Data Access Objects
-UEFI, Unified Extensible Firmware Interface
-GRUB, Grand Unified Bootloader
-act, actual
-fp, function pointer
-f, function
-f, file
-func, function
-alloc, allocate
-alt, alternative/alternate
-arg, argument
-attr, attribute
-app, application
-bg, background
-bin, binary
-bool, boolean
-btn, button
-c, character
-calc, calculate
-cb, callback
-ch, channel
-clr, clear
-cmd, command
-cmp, compare
-cnt, counter
-cont, continue
-conv, conversation
-col, column
-com, common
-com, communication
-cord, coordinate
-coord, coordinate
-cos, cosines
-ctrl, control
-cur, current
-db, database
-dec, decimal
-def, default
-del, delete
-dest, destination
-dev, device
-diff, difference
-dis, disable
-disp, display
-drv, driver
-dsc, descriptor
-e.g., example
-en, enable
-eq, equal
-err, error
-h, height
-hex, hexadecimal
-hor, horizontal
-i, integer iterator
-id, identifier
-img, image
-info, information
-init, initialize
-int, integer
-lib, library
-le, less
-len, length
-ll, linked list
-lt, less then
-math, mathematics
-max, maximum
-mem, memory
-mcu, microcontroller
-mid, middle
-min, minimum
-misc, miscellaneous
-mng, manager
-msg, message
-n, no
-ne, not equal
-num, number
-obj, object
-ord, order
-os, operating system
-p, pointer
-param, parameter
-pic, picture
-pos, position
-pred, prediction
-prev, previous
-proc, process
-ptr, pointer
-px, pixel
-qry, query
-r, radius
-recv, receive
-rem, remove
-res, result
-ret, return
-rev, revision
-req, required/requested
-str, string
-sin, sine
-src, source
-sem, semaphore
-t, type
-temp, temporary
-temp, temperature
-tgl, toggle
-tmp, temporary
-tmp, temperature
-tmr, timer
-txt, text
-val, value
-var, variable
-v, version
-vert, vertical
-w, width
-win, window
-y, yes
-AWS, Amazon Web Services
-S3, Simple Storage System
-GCP, Google Cloud Platform
-GCLB, Google Cloud Load Balancer
-Amazon, ES	Amazon Elasticsearch Service
-AMI, Amazon Machine Image
-ARN, Amazon Resource Name
-EC2, Elastic Compute Cloud
-ECS, EC2 Container Service
-EFS, Elastic File System
-EMR, Elastic Map Reduce
-IaaS, Infrastructure-as-a-Service
-SWS, Simple Workflow Service
-SNS, Simple Notification Service
-GCS, Google Cloud Storage
-VPC, Virtual Private Cloud
-AEBS, Amazon Elastic Block Store
-AZ, Availability Zone
-ASG, Auto Scaling Group
-EBS, Elastic Block Store
-ELB, Elastic Load Balancer
-EIP, Elastic IP
-ENI, Elastic Network Interface
-FaaS, Function as-a-Service
-HPC, High-Performance Compute
-HVM, Hardware Virtual Machine
-S3 IA, S3 Infrequent Access
-IG, Internet Gateway
-KMS, Key Management Service
-Amazon, SES	Amazon Simple Email System
-RRS, Reduced Redundancy Storage
-SQS, Simple Queue Service
-TPM, Trusted Platform Module
-VPG, Virtual Private Gateway
-VPS, Virtual Private Server
-HP CSA, HP Cloud Service Automation
-SEO, Search Engine Optimization
-SCM, Search Content Marketing
-SEM, Search Engine Marketing
-WP, WordPress
-PPC, Pay Per Click
-CPC, Cost Per Click
-SERP, Search Engine Results Page
-CTS, Click-Through Rate
-CR, Conversion Rate
-CPM, Cost Per Thousand Impressions
-SVG, Scalable Vector Graphics
-DMCA, Digital Millennium Copyright Act
-CMS, Content Management System
-CRO, Conversion Rate Optimization
-CTA, Call to Action
-CTR, Click Through Rate
-PR, PageRank
-DA, Domain Authority
-ROI, Return on Investment
-UI/UX, User Interface/User Experience
-SEA, Search Engine Advertising
-SMO, Social Media Optimization
-SMM, Social Media Marketing
-SERM, Search Engine Reputation Management
-AMA, Ask Me Anything
-B2B, Business to Business
-B2C, Business to Consumer
-HIP, Human Interaction Proof
-CRM, Customer Relationship Management
-CX, Customer Experience
-FOMO, Fear of Missing Out
-GA, Google Analytics
-IO, Insertion Order
-SM, Social Media
-SMP, Social Media Platform
-ToS, Terms of Service
-UA, Universal Analytics
-CPL, Cost Per Lead
-NPS, Net Promoter Score
-QDD, Query Deserves Diversity
-QDF, Query Deserves Freshness
-SC, Supplementary Content
-ZMOT, Zero Moment of Truth
-HITS, Hyperlink-Induced Topic Search
-LSI, Latent Semantic Indexing
-PBN, Private Blog Network
-AI, Artificial Intelligence
-IMS, Intelligent Maintenance Systems
-ML, Machine Learning
-NI, Natural Intelligence
-MI, Machine Intelligence
-NLP, Natural Language Processing
-CNN, Convolutional Neural Network
-RNN, Recurrent Neural Network
-LSTM, Long Short-term Memory
-CTC, Connectionist Temporal Classification
-CV, Computer Vision
-HMD, Head Mounted Displays
-RL, Reinforcement Learning
-NLNN, Non-Learning Neural Networks
-SR, Speech Recognition
-M2M, Machine to Machine
-DSBS, Dual Sensor Brake Support
-LNN, Learning Neural Networks
-NLU, Natural Language Understanding
-RPA, Robotic Process Automation
-ANN, Artificial Neural Network
-SQL, Structured Query Language
-DQL, Data Query Language
-DDL, Data Definition Language
-DML, Data Manipulation Language
-RDSMS, Relational Data Stream Management System
-OLAP, Online Analytical Processing
-OLTP, Online Transaction Processing
-DRDA, Distributed Relational Database Architecture
-4D QL, 4D Query Language
-DMS, Database Migration Service
-FIFO, First In First Out
-PHP, Hypertext Preprocessor
-HTML, Hypertext Markup Language
-JS, JavaScript
-CSS, Cascading Style Sheets
-SaaS, Software-as-a-Service
-XML, Extensible Markup Language
-SOAP, Simple Object Access Protocol
-XHTML, Extensible Hypertext Markup Language
-JSON, JavaScript Object Notation
-EOF, End Of File
-SDK, Software Development Kit
-ASCII, American Standard Code for Information Interchange
-I/0, Input & Output
-WYSIWYG, What You See Is What You Get
-VCS, Version Control Systems
-IDE, Integrated Development Environment
-IDE, Integrated Device Electronics
-PAP, Programmablaufplan
-GMCH, Grapfhics and Memory Controller Hub
-FPP, Full Packaged Products
-BSOD, Blue Screen of Death
-EFS, Encrypting File System
-FEK, File Encryption Key
-
-Java EE, Java Enterprise Edition
-EOL, End Of Life
-XSD, XML Schema Definition
-VBS, Visual Basic Script
-RAD, Rapid Application Development
-JCE, Java Cryptography Extension
-JDK, Java Development Kit
-IPSec, Internet Protocol Security
-SSE, Server Side Encryption
-SSL, Secure Socket Layer
-TLS, Transport Layer Security
-DOS, Denial of Services
-DDoS, Distributed Denial Of Services
-XSS, Cross-site Scripting
-CSP, Content Security Policy
-CSRF, Cross-Site Request Forgery
-SQLi, SQL Injection
-CBSP, Cloud-based Security Providers
-ACL, Access Control List
-AES, Advanced Encryption System
-CORS, Cross-Origin Resource Sharing
-IAM, Identity & Access Management
-MFA, Multi-Factor Authentication
-WAF, Web Application Firewall
-OWASP, Open Web Application Security Project
-MITM, Man in the Middle Attack
-PCI DSS, Payment Card Industry Data Security Standard
-SAML, Security Assertion Markup Language
-STS, Security Token Service
-FUD, Fully Undetectable
-RAT, Remote Administration Tool
-SE, Social Engineering
-SKid, Script Kiddie
-DNSSEC, Domain Name System Security Extensions
-DKIM, Domain Keys Identified Mail
-DMARC, Domain-based Message Authentication Reporting and Conformance
-SPF, Sender Policy Framework
-CVSS, Common Vulnerability Scoring System
-SAST, Static Application Security Testing
-SAS, Shared Access Signature
-DAST, Dynamic Application Security Testing
-WAP, Web Application Protection
-RFI, Remote File Inclusion
-LFI, Local File Inclusion
-DT, Directory Traversal
-PT, Path Traversal
-SCD, Source Code Disclosure
-OSCI, OS Command Injection
-CWE, Common Weakness Enumeration
-DSA, Digital Signature Algorithm
-DES, Data Encryption Standard
-OSS, Open Source Software
-FOSS, Free and open-source software
-OS, Operating System
-HA, High Availability
-BYOD, Bring Your Own Device
-PaaS, Platform-as-a-Service
-DaaS, Desktop-as-a-Service
-EDV, Elektronische Daten Verarbeitung
-EVA, EVA Prinzip (Eingabe+Verarbeitung+Ausgabe)
-IPO, input-process-output
-DVA, Datenverarbeitungsanlage
-GPU, Graphics Processing Unit
-PHP, PHP Hypertext Preprocessor
-MAC, Medium Access Control
-AGP, Accelerated Graphics Port
-ARP, Address Resolution Protocol
-ESD, Electronic Software Distribution
-PID, Process Identifier
-VM, Virtual Machine
-IPv4, Internet Protocol Version 4
-IPv6, Internet Protocol Version 6
-SMB, Server Message Block
-KVM, Kernel-based Virtual Machine
-ESX, Elastic Sky X
-DRS, Distributed Resource Scheduler
-VSM, Virtual Supervisor Module
-QEMU, Quick Emulator
-SSD, Solid-state Drive
-ISO, International Organization for Standardization
-IEC, International Electrotechnical Commission
-JTC, Joint technical committee
-SC, Sub-Committee
-SCQL, Structured Card Query Language
-IOPS, Input/output Operations Per Second
-ADFS, Active Directory Federation Service
-CLI, Command Line Interface
-CLI, Command Line Interpreter
-CI/CD, Continous Integration/Continous Deployment
-CAPTCHA, Completely automated public turing test to tell computers and humans apart
-iSCSI, Internet Small Computer Storage Interface
-SSH, Secure Shell
-MSTSC, Microsoft Terminal Service Client
-MPP, Massive Parallel Processing
-NFS, Network File System
-RAID, Redundant Array of Independent Disk
-RAM, Random-access Memory
-SLA, Service Level Agreement
-OLA, Operational-level Agreement
-SSO, Single Sign-On
-VTL, Virtual Tape Library
-VDI, Virtual Desktop Infrastructure
-BIOS, Basic Input Output System
-DVD, Digital Versatile Disc
-PSU, Power Supply Unit
-ROM, Read Only Memory
-UPS, Uninterruptible Power Supply
-DC, Data Center
-GUI, Graphical User Interface
-TPU, Tensor Processing Unit
-RISC, Reduced Instruction Set Computer
-AU, Activation Unit
-ALU, Arithmetic Logic Units
-AVX, Advanced Vector Extensions
-P2V, Physical to Virtual
-VXLAN, Virtual Extensible Local Area Network
-VCS, Veritas Cluster Server
-HAC, High-availability Clusters
-RUM, Real-user Measurement
-ERP, Enterprise Resource Planning
-BPO, Business Process Outsourcing
-BI, Business Intelligence
-IT, Information Technology
-DW, Data Warehouse
-WINS, Windows Internet Name Service
-WMI, Windows Management Instrumentation
-VG, Volume Group
-TTY, Teletype
-SFTP, SSH File Transfer Protocol
-SAN, Storage Area Network
-DNS, Domain Name System
-HTTP, HyperText Transport Protocol
-HTTPS, HyperText Transport Protocol Secure
-CDN, Content Delivery Network
-AML, Azure Machine Learning
-LAN, Local Area Network
-WAN, Wide Area Network
-SMA, Service Management Automation
-MSMA, Microsoft Service Management Automation
-DSGVO, Datenschutz-Grundverordnung
-BDSG, Bundesdatenschutzgesetz
-GDPR, General Data Protection Regulation
-DHCP, Dynamic Host Configuration Protocol
-TCP, Transmission Control Protocol
-IP, Internet Protocol
-WWW, World Wide Web
-IoT, Internet Of Things
-CS, Cognitive Services
-ACS, Azure Cognitive Services
-D2D, Device to Device
-VPN, Virtual Private Network
-BGP, Border Gateway Protocol
-VLAN, Virtual Local Area Network
-DOM, Document Object Model
-UDP, User Datagram Protocol
-CIDR, Classless Inter-Domain Routing
-VIP, Virtual IP
-ICMP, Internet Control Message Protocol
-LB, Load Balancer
-SMTP, Simple Mail Transfer Protocol
-FTP, File Transfer Protocol
-RDP, Remote Desktop Protocol
-MPLS, Multi-Protocol Label Switching
-NS, Name Server
-NAT, Network Address Translation
-SOA, Start of Authority
-TTL, Time To Live
-TPS, Transaction Per Second
-NDA, Nondisclosure Agreement
-AP, Access Point
-MAC, Media Access Control
-ISP, Internet Service Provider
-URL, Uniform Resource Locator
-PDF, Portable Document Format
-TLD, Top-level domain
-RSS, Really Simple Syndication
-IFTTT, If This Then That
-IE, Internet Explorer
-EULA, End User License Agreement
-AFAIK, As far as I Know
-CAN-SPAM, Controlling the Assault of Non-Solicited Pornography and Marketing Act
-DM, Direct Message
-FB, Facebook
-PM, Private Message
-QoS, Quality of Service
-MIME, Multipurpose Internet Mail Extensions
-POP, Post Office Protocol
-IMAP, Internet Message Access Protocol
-CNAME, Canonical Name
-MX, Mail Exchange
-PPTP, Point-to-Point Tunneling Protocol
-LLT, Low Latency Transport
-POP, Point Of Presence of CDN
-ASN, Autonomous System Number
-SCM, Supply Chain Management
-WPAN, Wireless Personal Area Network
-WLAN, Wireless Local Area Network
-URI, Uniform Resource Identifier
-TTF, TrueType Font
-NACK, Negative ACKnowledgement
-HAR, HTTP Archive
-QUIC, Quick UDP Internet Connections
-SATA, Serial Advanced Technology Attachment
-HDD, Hard Disk Drive
-OS2, Operating System/2
-OS/2, Operating System/2
-BS/2, Betriebssystem/2
-BS2, Betriebssystem/2
-5G, 5. Generation des Telekommunikations- und Mobilstandards
-NTFS, New Technology File System
-HPFS, High Performance File System
-XLS, Excel File
+4D QL,4D Query Language
+5G,5. Generation des Telekommunikations- und Mobilstandards
+A/D,Analog-to-Digital
+AA,Advanced Analytics
+AAAI,Association for the Advancement of Artificial Intelligence
+AAC,Advanced Audio Coding
+AACS,Advanced Access Content System
+AAL,ATM Adaptation Layer
+AAL,Active assisted living
+AAL,Ambient assisted living
+AAM,ATA/ATAPI Architecture Model
+ABC,Atanasoff Berry Computer
+ABM,Agent-based Modeling
+ABP,Autonomous Business Process
+ABS,agent-based modeling
+ACC,Adaptive Computing (Micro-)Controller
+ACD,Automatic Call Distribution
+ACE,ASCII Compatible Encoding
+ACL,Access Control List
+ACM,Association for Computing Machinery
+ACO,Ant Colony Optimization
+ACPI,Advanced Configuration and Power Interface
+ACR,Advanced Communication(s) Riser
+ACS,Applied Computer Science
+ACS,Azure Cognitive Services
+ACS,Azure Container Service
+AD,Active Directory
+ADAM,Active Directory Application Mode
+ADAPT,Application Design for Analytical Processing Technologies
+ADB,Android Debug Bridge
+ADB,Apple Desktop Bus
+ADC,Apple Display Connector
+ADDS,Active Directory Domain Services
+ADFS,Active Directory Federation Service
+ADO,ActiveX Data Objects
+ADO,Azure Devops
+AEBS,Amazon Elastic Block Store
+AEP,AppleTalk Echo Protocol
+AES,Advanced Encryption Standard
+AES,Advanced Encryption System
+AF,Anisotropes Filtern
+AFAIK,As far as I Know
+AFK,Away from Keyboard
+AFP,Apple Filing Protocol
+AGP,Accelerated Graphics Port
+AI,Artificial Intelligence
+AIA,Authority Information Access
+AIFF,Audio Interchange File Format
+AIM,AOL Instant Messenger
+AIR,Adobe Integrated Runtime
+AIT,Advanced Intelligent Tape
+AJAX,Asynchronous JavaScript and XML
+AKS,Azure Kubernetes Service
+ALGOL,Algorithic Language
+ALU,Arithmetic Logic Unit
+ALU,Arithmetic Logic Units
+AMA,Ask Me Anything
+AMD,Advanced Micro Devices
+AMI,Amazon Machine Image
+AML,Azure Machine Learning
+AMOLED,Active-Matrix Organic Light Emitting Diodes
+AMQP,Advanced Message Queuing Protocol
+ANN,Artificial Neural Network
+ANSI,American National Standards Institute
+AOP,Aspektorientierte Programmierung
+AOSP,Android Open Source Platform
+AP,Access Point
+APDU,Application Protocol Data Unit
+API,Application Programming Interface
+APIC,Advanced Programmable Interrupt Controller
+APIPA,Automatic Private IP Addressing
+APL,A Programming Language
+APL,Abschlusspunkt Linientechnik
+APM,Advanced Power Management
+APOP,Authenticated Post Office Protocol
+APS,Azure Power Shell
+APU,Accelerated Processing Unit
+AR,Augmented Reality
+ARM,Azure Ressource Manager
+ARN,Amazon Resource Name
+ARP,Address Resolution Protocol
+ARPANET,Advanced Research Project Agency Network
+ASCII,American Standard Code for Information Interchange
+ASG,Auto Scaling Group
+ASN,Autonomous System Number
+ASPI,Advanced SCSI Programming Interface
+ATPG,Automatic Test Pattern Generation
+ATX,Advanced Technology Extended
+AU,Activation Unit
+AUI,Attachment Unit Interface
+AV,Anti-Virus
+AVI,Audio Video Interleave
+AVX,Advanced Vector Extensions
+AWS,Amazon Web Services
+AZ,Availability Zone
+Amazon,ES	Amazon Elasticsearch Service
+Amazon,SES	Amazon Simple Email System
+B2A,Business-to-Administration
+B2B,Business to Business
+B2B,Business-to-Business
+B2C,Business to Consumer
+B2C,Business-to-Consumer
+B2E,Business-to-Employee
+BASIC,Beginners All-purpose Symbolic Instruction Code
+BCD,Binary Coded Decimal
+BCPL,Basic Combined Programming Language
+BD,Blu-ray Disc
+BDC,Backup Domain Controller
+BDD,Binary Decision Diagram
+BDSG,Bundesdatenschutzgesetz
+BER,Basic Encoding Rules
+BFD,Bidirectional Forwarding Detection
+BGA,Ball Grid Array
+BGP,Border Gateway Protocol
+BI,Business Intelligence
+BIOS,Basic Input Output System
+BIOS,Basic Inpute Output System
+BIPS,Billions of Instructions Per Second
+BLOB,Binary Large Object
+BOFH,Bastard Operator From Hell
+BOM,Byte Order Mark
+BOOTP,Bootstrap Protocol
+BPEL,Business Process Execution Language
+BPI,Bytes Per Inch
+BPO,Business Process Outsourcing
+BS/2,Betriebssystem/2
+BS2,Betriebssystem/2
+BSC,Binary Synchronous Communication
+BSD,Berkeley Software Distribution
+BSOD,Blue Screen of Death
+BTO,Build-to-Order
+BTX,Balanced Technology Extended
+BYOD,Bring Your Own Device
+BiDi,Bidirectional Text Layout
+CA,Certificate Authority
+CAD,Computer Aided Design
+CAE,Computer Aided Engineering
+CAN,Campus Area Network
+CAN-SPAM,Controlling the Assault of Non-Solicited Pornography and Marketing Act
+CAPTCHA,Completely automated public turing test to tell computers and humans apart
+CASE,Computer Aided Software Engineering
+CAT,Catalog Service
+CBSP,Cloud-based Security Providers
+CC,Creative Commons
+CD,Compact Disk
+CD-R,CD-Recordable
+CD-ROM,Compact Disk Read Only Memory
+CD-RW,CD Read/Write
+CDC,Control Data Corporation
+CDN,Content Delivery Network
+CI/CD,Continous Integration/Continous Deployment
+CIDR,Classless Inter-Domain Routing
+CL,Command Language
+CLI,Command Line Interface
+CLI,Command Line Interpreter
+CMS,Content Management System
+CNAME,Canonical Name
+CNN,Convolutional Neural Network
+COBOL,Common Business Oriented
+CODASYL,Conference On Data Systems
+CORS,Cross-Origin Resource Sharing
+CPC,Cost Per Click
+CPL,Cost Per Lead
+CPM,Cost Per Thousand Impressions
+CPU,Central Processing Unit
+CR,Conversion Rate
+CRM,Customer Relationship Management
+CRO,Conversion Rate Optimization
+CRT,Cathode Ray Tube
+CS,Cognitive Services
+CSP,Content Security Policy
+CSR,Certificate Signing request
+CSRF,Cross-Site Request Forgery
+CSS,Cascading Style Sheets
+CTA,Call to Action
+CTC,Connectionist Temporal Classification
+CTR,Click Through Rate
+CTS,Click-Through Rate
+CV,Computer Vision
+CVSS,Common Vulnerability Scoring System
+CWE,Common Weakness Enumeration
+CX,Customer Experience
+D/A,Digital-to-Analog
+D2D,Device to Device
+DA,Domain Authority
+DAE,Digital Audio Extraction
+DAL,Data Abstraction Layer
+DAO,Data Access Objects
+DAST,Dynamic Application Security Testing
+DAT,Digital Audio Tape
+DAU,Dümmster anzunehmender User
+DBMS,Data Base Management System
+DBS,Demand Based Switching
+DC,Data Center
+DDL,Data Definition Language
+DDS,Digital Data Storage
+DDoS,Distributed Denial Of Services
+DEC,Digital Equipment Corporation
+DES,Data Encryption Standard
+DHCP,Dynamic Host Configuration Protocol
+DKIM,Domain Keys Identified Mail
+DM,Direct Message
+DMA,Direct Memory Access
+DMARC,Domain-based Message Authentication Reporting and Conformance
+DMCA,Digital Millennium Copyright Act
+DML,Data Manipulation Language
+DMS,Database Migration Service
+DNA,Digital Network Architecture
+DNS,Domain Name System
+DNSSEC,Domain Name System Security Extensions
+DOM,Document Object Model
+DOS,Denial of Services
+DPI,Dots Per Inch
+DQL,Data Query Language
+DRAM,Dynamic RAM
+DRDA,Distributed Relational Database Architecture
+DRS,Distributed Resource Scheduler
+DSA,Digital Signature Algorithm
+DSBS,Dual Sensor Brake Support
+DSGVO,Datenschutz-Grundverordnung
+DSN,Distributed Systems Network
+DT,Directory Traversal
+DTS,Digital Theater System
+DVA,Datenverarbeitungsanlage
+DVD,Digital Versatile Disc
+DVD,Digital Video/Versatile Disk
+DW,Data Warehouse
+DaaS,Desktop-as-a-Service
+EBCDIC,Extended Binary Coded Decimal Interchange Code
+EBS,Elastic Block Store
+EC2,Elastic Compute Cloud
+ECS,EC2 Container Service
+EDSAC,Electronic Delay Storage Automatic Calculator
+EDV,Elektronische Daten Verarbeitung
+EDVAC,Electronic Discrete Variable Automatic Calculator
+EFM,Eight-to-Fourteen Modulation
+EFS,Elastic File System
+EFS,Encrypting File System
+EIP,Elastic IP
+ELB,Elastic Load Balancer
+EMR,Elastic Map Reduce
+EMV,Enhanced Motion Vehicle
+EMV,Europay + Mastercard + Visa
+ENI,Elastic Network Interface
+ENIAC,Electronic Numerical Integrator And Calculator
+EOF,End Of File
+EOL,End Of Life
+EPG,Electronic Programming Guide
+EPIC,Explicitly Parallel Instruction Computing
+EPROM,Erasable Programmable Read-Only Memory
+ERP,Enterprise Resource Planning
+ESD,Electronic Software Distribution
+ESX,Elastic Sky X
+EULA,End User License Agreement
+EVA,EVA Prinzip (Eingabe+Verarbeitung+Ausgabe)
+FAI,Fully Automatic Installation
+FAQ,Frequently Asked Questions
+FAT,File Allocation Table
+FB,Facebook
+FC,Fibre Channel
+FD,Floppy Disk
+FDD,Floppy Disk Drive
+FDDI,Fiber Distributed Data Interface
+FDM,Frequency Division Multiplexing
+FDMA,Frequency Division Multiple Access
+FEK,File Encryption Key
+FEP,Front End Processor
+FET,Field Effect Transistor
+FGA,Floating Gate Array
+FHSS,Frequency Hopping Spread Spectrum
+FIFO,First In First Out
+FIFO,First In – First Out
+FILO,First In – Last Out
+FLOPS,Floating Point Operations Per Second
+FLOPS,Floating Point Operations per Second
+FM,Frequency Modulation
+FMS,File Management System
+FOMO,Fear of Missing Out
+FORTRAN,FORmula TRANslation
+FOSS,Free and open-source software
+FPGA,Field Programmable Gate Array
+FPLA,Field Programmable Logic Array
+FPP,Full Packaged Products
+FQDN,Fully Qualified Domain Name
+FSAA,Full Scene Antialiasing
+FSB,Front Side Bus
+FSK,Frequency Shift Keying
+FSM,Finite State Machine
+FTP,File Transfer Protocol
+FTTH,Fibre To The Home
+FUD,Fully Undetectable
+FW,Firewall
+FW,Forwarding
+FaaS,Function as-a-Service
+GA,Google Analytics
+GB,Giga Bytes
+GCLB,Google Cloud Load Balancer
+GCP,Google Cloud Platform
+GCS,Google Cloud Storage
+GDPR,General Data Protection Regulation
+GFLOPS,Giga FLOPS
+GHz,Giga Hertz
+GIF,Graphics Interchange Format
+GMCH,Grapfhics and Memory Controller Hub
+GNU,Gnu Not Unix
+GPRS,General Packet Radio Service
+GPU,Graphics Processing Unit
+GRUB,Grand Unified Bootloader
+GSM,Global System for Mobile communication
+GUI,Graphical User Interface
+HA,High Availability
+HAC,High-availability Clusters
+HAR,HTTP Archive
+HDD,Hard Disk Drive
+HDMI,High Definition Media Interface
+HIP,Human Interaction Proof
+HITS,Hyperlink-Induced Topic Search
+HMD,Head Mounted Displays
+HP CSA,HP Cloud Service Automation
+HP,Hewlett Packard
+HPC,High-Performance Compute
+HPFS,High Performance File System
+HSS,Hierarchical Storage System
+HTML,HyperText Markup Language
+HTML,Hypertext Markup Language
+HTTP,HyperText Transport Protocol
+HTTPS,HyperText Transport Protocol Secure
+HVM,Hardware Virtual Machine
+I/0,Input & Output
+IAM,Identity & Access Management
+IBM,International Business Machine
+IC,Integrated Circuit
+ICMP,Internet Control Message Protocol
+ICS,IBM Cabling System
+ICS,iCalendar
+IDE,Integrated Development Environment
+IDE,Integrated Device Electronics
+IDN,Integrated Digital Networks
+IE,Internet Explorer
+IEC,International Electrotechnical Commission
+IFTTT,If This Then That
+IG,Internet Gateway
+IMAP,Internet Message Access Protocol
+IMS,Intelligent Maintenance Systems
+IO,Insertion Order
+IOPS,Input/output Operations Per Second
+IP,Internet Protocol
+IPO,input-process-output
+IPSec,Internet Protocol Security
+IPv4,Internet Protocol Version 4
+IPv6,Internet Protocol Version 6
+ISDN,Integrated Services Digital Network
+ISO,International Organization for Standardization
+ISP,Internet Service Provider
+IT,Information Technology
+IaaS,Infrastructure-as-a-Service
+IoT,Internet Of Things
+IrDA,Infrared Data Association
+JCE,Java Cryptography Extension
+JDK,Java Development Kit
+JPEG,Joint Photographic Experts Group
+JRE,Java Runtime Engine
+JS,JavaScript
+JSON,JavaScript Object Notation
+JSP,Java Server Pages
+JTC,Joint technical committee
+Java EE,Java Enterprise Edition
+KB,Kilo Bytes
+KHz,Kilo Hertz
+KMS,Key Management Service
+KVM,Kernel-based Virtual Machine
+LAN,Local Area Network
+LB,Load Balancer
+LCD,Liquid Crystal Display
+LED,Light Emitting Diode
+LFI,Local File Inclusion
+LLT,Low Latency Transport
+LNN,Learning Neural Networks
+LPM,Line Per Minute
+LSI,Large Scael Integration
+LSI,Latent Semantic Indexing
+LSTM,Long Short-term Memory
+M2M,Machine to Machine
+MAC,Media Access Control
+MAC,Medium Access Control
+MAN,Metropolitan Area Network
+MAR,Memory Address Register
+MB,Mega Bytes
+MBR,Master Boot Record
+MBR,Memory Buffer Register
+MCH,Memory Controller Hub
+MFA,Multi-Factor Authentication
+MHz,Mega Hertz
+MI,Machine Intelligence
+MIDI,Musical Instrument Digital Interface
+MIME,Multipurpose Internet Mail Extensions
+MIPS,Millions of Instructions Per Second
+MITM,Man in the Middle Attack
+ML,Machine Learning
+MNP,Microcom Network Protocol
+MPEG,Moving Pictures Experts Group
+MPLS,Multi-Protocol Label Switching
+MPP,Massive Parallel Processing
+MS-DOS,MicroSoft Disk Operating System
+MSMA,Microsoft Service Management Automation
+MSTSC,Microsoft Terminal Service Client
+MVT,Multiprogramming with Variable Tasks
+MX,Mail Exchange
+NACK,Negative ACKnowledgement
+NAT,Network Address Translation
+NDA,Nondisclosure Agreement
+NFS,Network File System
+NI,Natural Intelligence
+NIC,Network Interface Card
+NICNET,National Informatics Center NETwork
+NLNN,Non-Learning Neural Networks
+NLP,Natural Language Processing
+NLU,Natural Language Understanding
+NOS,Network Operating System
+NPS,Net Promoter Score
+NS,Name Server
+NSG,Network Security Group
+NTFS,New Technology File System
+OCR,Optical Character Recognition
+OLA,Operational-level Agreement
+OLAP,Online Analytical Processing
+OLTP,Online Transaction Processing
+OMR,Optical Mark Reader
+OS,Operating System
+OS/2,Operating System/2
+OS2,Operating System/2
+OSCI,OS Command Injection
+OSI,Open System Interconnection
+OSS,Open Source Software
+OWASP,Open Web Application Security Project
+P2V,Physical to Virtual
+PAN,Personal Area Network
+PAP,Programmablaufplan
+PBN,Private Blog Network
+PC,Personal Computer
+PCI DSS,Payment Card Industry Data Security Standard
+PDF,Portable Document Format
+PDL,Program Design Language
+PDP,Program Data Processor
+PHP,Hypertext Preprocessor
+PHP,PHP Hypertext Preprocessor
+PID,Process Identifier
+PIP,Peripheral Interchange Program
+PIP,Public IP
+PM,Private Message
+POI,Point Of Interest
+POP,Point Of Presence of CDN
+POP,Post Office Protocol
+PPC,Pay Per Click
+PPTP,Point-to-Point Tunneling Protocol
+PR,PageRank
+PROM,Programmable Read-Only Memory
+PSU,Power Supply Unit
+PT,Path Traversal
+PaaS,Platform-as-a-Service
+QDD,Query Deserves Diversity
+QDF,Query Deserves Freshness
+QEMU,Quick Emulator
+QUIC,Quick UDP Internet Connections
+QoS,Quality of Service
+RAD,Rapid Application Development
+RAID,Redundant Array of Independent Disk
+RAM,Random Access Memory
+RAM,Random-access Memory
+RAT,Remote Administration Tool
+RDP,Remote Desktop Protocol
+RDSMS,Relational Data Stream Management System
+RFI,Remote File Inclusion
+RISC,Reduced Instruction Set Computer
+RL,Reinforcement Learning
+RNN,Recurrent Neural Network
+ROI,Return on Investment
+ROM,Read Only Memory
+RPA,Robotic Process Automation
+RRS,Reduced Redundancy Storage
+RSS,Really Simple Syndication
+RUM,Real-user Measurement
+S3 IA,S3 Infrequent Access
+S3,Simple Storage System
+SAML,Security Assertion Markup Language
+SAN,Storage Area Network
+SAP,Systeme + Anwendungen + Produkte
+SAS,Shared Access Signature
+SAST,Static Application Security Testing
+SATA,Serial Advanced Technology Attachment
+SC,Sub-Committee
+SC,Supplementary Content
+SCD,Source Code Disclosure
+SCM,Search Content Marketing
+SCM,Supply Chain Management
+SCQL,Structured Card Query Language
+SDK,Software Development Kit
+SDLC,Software Development Life Cycle
+SE,Social Engineering
+SEA,Search Engine Advertising
+SEM,Search Engine Marketing
+SEO,Search Engine Optimization
+SEQUEL,Structured English QUEry Language
+SERM,Search Engine Reputation Management
+SERP,Search Engine Results Page
+SFTP,SSH File Transfer Protocol
+SGML,Syntax for Generalized Markup Language
+SIMM,Single In-line Memory Module
+SKid,Script Kiddie
+SLA,Service Level Agreement
+SM,Social Media
+SMA,Service Management Automation
+SMB,Server Message Block
+SMM,Social Media Marketing
+SMO,Social Media Optimization
+SMP,Social Media Platform
+SMTP,Simple Mail Transfer Protocol
+SNA,Systems Network Architecture
+SNOBOL,StriNg Oriented and symBOlic Language
+SNS,Simple Notification Service
+SOA,Start of Authority
+SOAP,Simple Object Access Protocol
+SPF,Sender Policy Framework
+SQL,Structured Query Language
+SQLi,SQL Injection
+SQS,Simple Queue Service
+SR,Speech Recognition
+SRAM,Static RAM
+SSD,Solid-state Drive
+SSE,Server Side Encryption
+SSH,Secure Shell
+SSI,Small Scale Integration
+SSL,Secure Socket Layer
+SSO,Single Sign-On
+STS,Security Token Service
+SVG,Scalable Vector Graphics
+SWS,Simple Workflow Service
+SaaS,Software-as-a-Service
+TB,Tera Bytes
+TCP,Transmission Control Protocol
+TCP,Transport Control Protocol
+TDM,Time Division Multiplexing
+TLD,Top-level domain
+TLS,Transport Layer Security
+TPM,Trusted Platform Module
+TPS,Transaction Per Second
+TPU,Tensor Processing Unit
+TTF,TrueType Font
+TTL,Time To Live
+TTY,Teletype
+ToS,Terms of Service
+UA,Universal Analytics
+UDP,"	User Datagram Protocol"
+UDP,User Datagram Protocol
+UEFI,Unified Extensible Firmware Interface
+UI/UX,User Interface/User Experience
+ULSI,Ultra Large Scale Integration
+UPC,Universal Product Code
+UPS,Uninterruptible Power Supply
+URI,Uniform Resource Identifier
+URL,Uniform Resource Locator
+USB,Universal Serial Bus
+UTF,Unicode Transformation Format
+VAN,Value Added Network
+VBS,Visual Basic Script
+VCR,Video Cassette Recorder
+VCS,Veritas Cluster Server
+VCS,Version Control Systems
+VDI,Virtual Desktop Infrastructure
+VDT,Video Display Terminal
+VG,Volume Group
+VGA,Video Graphics Array
+VIP,Virtual IP
+VLAN,Virtual Local Area Network
+VM,Virtual Machine
+VOD,Video-On-Demand
+VPC,Virtual Private Cloud
+VPG,Virtual Private Gateway
+VPN,Virtual Private Network
+VPS,Virtual Private Server
+VSAT,Very Small Aperture Terminal
+VSM,Virtual Supervisor Module
+VTL,Virtual Tape Library
+VXLAN,Virtual Extensible Local Area Network
+VoIP,Voice over Internet Protocol
+WAF,Web Application Firewall
+WAN,Wide Area Network
+WAP,Web Application Protection
+WAP,Wireless Application Protocol
+WINS,Windows Internet Name Service
+WLAN,Wireless Local Area Network
+WLL,Wireless Local Loop
+WMI,Windows Management Instrumentation
+WORM,Write Once Read Many
+WP,WordPress
+WPAN,Wireless Personal Area Network
+WWW,World Wide Web
+WYSIWYG,What You See Is What You Get
+WiMAX,Worldwide Interoperability for Microwave Access
+X.400,Electronic Mail Protocol
+X.500,Directory Server Protocol
+XHTML,Extensible Hypertext Markup Language
+XHTML,eXtensible HyperText Markup Language
+XLS,Excel File
+XML,Extensible Markup Language
+XML,eXtensible Markup Language
+XSD,XML Schema Definition
+XSS,Cross-site Scripting
+YB,Yottabyte
+ZB,Zetabyte
+ZMOT,Zero Moment of Truth
+act,actual
+alloc,allocate
+alt,alternative/alternate
+app,application
+arg,argument
+attr,attribute
+bg,background
+bin,binary
+bool,boolean
+btn,button
+c,character
+calc,calculate
+cb,callback
+ch,channel
+clr,clear
+cmd,command
+cmp,compare
+cnt,counter
+col,column
+com,common
+com,communication
+cont,continue
+conv,conversation
+coord,coordinate
+cord,coordinate
+cos,cosines
+ctrl,control
+cur,current
+db,database
+dec,decimal
+def,default
+del,delete
+dest,destination
+dev,device
+diff,difference
+dis,disable
+disp,display
+drv,driver
+dsc,descriptor
+e.g.,example
+en,enable
+eq,equal
+err,error
+f,file
+f,function
+fp,function pointer
+func,function
+h,height
+hex,hexadecimal
+hor,horizontal
+i,integer iterator
+iSCSI,Internet Small Computer Storage Interface
+id,identifier
+img,image
+info,information
+init,initialize
+int,integer
+le,less
+len,length
+lib,library
+ll,linked list
+lt,less then
+math,mathematics
+max,maximum
+mcu,microcontroller
+mem,memory
+mid,middle
+min,minimum
+misc,miscellaneous
+mng,manager
+msg,message
+n,no
+ne,not equal
+num,number
+obj,object
+ord,order
+os,operating system
+p,pointer
+param,parameter
+pic,picture
+pos,position
+pred,prediction
+prev,previous
+proc,process
+ptr,pointer
+px,pixel
+qry,query
+r,radius
+recv,receive
+rem,remove
+req,required/requested
+res,result
+ret,return
+rev,revision
+sem,semaphore
+sin,sine
+src,source
+str,string
+t,type
+temp,temperature
+temp,temporary
+tgl,toggle
+tmp,temperature
+tmp,temporary
+tmr,timer
+txt,text
+v,version
+val,value
+var,variable
+vert,vertical
+w,width
+win,window
+y,yes

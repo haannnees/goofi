@@ -24,7 +24,6 @@ func init() {
 
 func removeGoofiFile() error {
 	err := os.Remove(goofiFilePath)
-
 	if err != nil {
 		return errors.New("could not reset goofi")
 	}
