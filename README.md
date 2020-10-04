@@ -1,8 +1,14 @@
-<img src="https://github.com/haannnees/goofi/blob/master/doc/logo.png" alt="Goofi" width="163" height="274">
+# Go **+** Find = **Goofi**❣️
 
-## Go **+** Find = **Goofi**❣️
+A simple CLI-Tool to look up abbreviations built with love in [Go](https://golang.org/) with [Cobra](https://github.com/spf13/cobra).      
 
-A simple CLI-Tool to look up abbreviations built with love in [Go](https://golang.org/) with [Cobra](https://github.com/spf13/cobra).
+<img src="https://github.com/haannnees/goofi/blob/master/doc/logo.png" alt="Goofi" width="163" height="274">      
+
+
+[![GitHub Super-Linter](https://github.com/haannnees/goofi/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/haannnees/goofi)
+
+---- 
 
 ## Overview
 Goofi is a open source CLI-Tool written in GO, which can be used to find easy and quick the meaning of abbreviations.
@@ -25,18 +31,6 @@ cd goofi
 go install goofi
 ```
 
-#### Run Goofi
-```bash
-goofi --help
-```
-
-#### Import acronyms
-```bash
-goofi add -s CLI=Command Line Interface
-goofi add -r https://raw.githubusercontent.com/haannnees/goofi/master/doc/goofi.csv
-goofi add -l $HOME/abbreviationList.csv
-```
-
 #### Find word
 Enter command
 ```bash
@@ -51,6 +45,20 @@ Get result printed
 └─────────────────────────┘
 ```
 
+#### Run Goofi
+```bash
+goofi --help
+```
+
+#### Import acronyms
+```bash
+goofi add -s CLI=Command Line Interface
+goofi add -r https://raw.githubusercontent.com/haannnees/goofi/master/doc/goofi.csv
+goofi add -l $HOME/workspace/goofi/doc/goofi.csv
+```
+Note: In the doc directory of this repository there is a csv file with over 700 abbreviations, mainly from IT and programming.
+
+
 #### Made by
 Hannes Wagner             
 Software Engineer         
@@ -58,5 +66,3 @@ Software Engineer
 [LinkedIn](https://www.linkedin.com/in/hannes-wagner-171549128/)          
 
 
-[![GitHub Super-Linter](https://github.com/haannnees/goofi/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/haannnees/goofi)
