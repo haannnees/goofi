@@ -8,5 +8,4 @@ require (
 	github.com/mattn/go-runewidth v0.0.9 // indirect
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/spf13/cobra v1.0.0
-	golang.org/x/sys v0.0.0-20190624142023-c5567b49c5d0 // indirect
 )

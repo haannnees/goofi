@@ -51,7 +51,7 @@ func addRemoteAbbreviations(remoteUrl string) error {
 		fmt.Print("Cant read csv from url")
 		return err
 	}
-	
+
 	err = csv2.OpenAndWriteCSV(data, goofiFilePath)
 	if err != nil {
 		return err

@@ -3,12 +3,11 @@ package cmd
 import (
 	"bufio"
 	"fmt"
+	"github.com/spf13/cobra"
 	csv2 "goofi/cmd/csv"
 	"os"
 	"sort"
 	"strings"
-
-	"github.com/spf13/cobra"
 )
 
 // cleanCmd represents the clean command
