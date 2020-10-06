@@ -1,0 +1,36 @@
+name: Unit testing
+
+#
+# Documentation:
+# https://github.com/mvdan/github-actions-golang:
+#
+
+on:
+  push:
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  test:
+    strategy:
+      matrix:
+        go-version: [ 1.15.2 ]
+        os: [ ubuntu-latest, macos-latest, windows-latest ]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - name: Install Go
+        uses: actions/setup-go@v2
+        with:
+          go-version: ${{ matrix.go-version }}
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Prepare
+        run: go mod download
+      - name: Publish Code Coverage
+        uses: actions/upload-artifact@v2
+        with:
+          name: code covarege report
+          path: coverage.out
+      - name: Run Unit Tests
+        run: |
+          go test -v ./...

@@ -62,7 +62,6 @@ Note: In the doc directory of this repository there is a csv file with over 700 
 #### Made by
 Hannes Wagner             
 Software Engineer         
-[Github](https://github.com/haannnees)              
-[LinkedIn](https://www.linkedin.com/in/hannes-wagner-171549128/)          
+[Github](https://github.com/haannnees)                        
 
 
