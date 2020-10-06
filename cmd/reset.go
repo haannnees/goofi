@@ -1,11 +1,9 @@
 package cmd
 
 import (
-	"errors"
 	"fmt"
-	"os"
-
 	"github.com/spf13/cobra"
+	"goofi/cmd/csv"
 )
 
 // resetCmd represents the reset command
@@ -14,7 +12,7 @@ var resetCmd = &cobra.Command{
 	Short:   "Remove all added abbreviations and reset goofi",
 	Aliases: []string{"r"},
 	RunE: func(cmd *cobra.Command, args []string) error {
-		return removeGoofiFile()
+		return removeGoofiFile(goofiFilePath)
 	},
 }
 
@@ -22,13 +20,13 @@ func init() {
 	rootCmd.AddCommand(resetCmd)
 }
 
-func removeGoofiFile() error {
-	err := os.Remove(goofiFilePath)
+func removeGoofiFile(path string) error {
+	err := csv.RemoveCSVFile(path)
 	if err != nil {
-		return errors.New("could not reset goofi")
+		return err
 	}
 
-	fmt.Print("Successfully reset goofi!\n")
+	fmt.Print("Successfully deleted goofi file")
 
 	return nil
 }

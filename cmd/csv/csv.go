@@ -96,3 +96,12 @@ func CreateCsvFile(path string) error {
 
 	return err
 }
+
+func RemoveCSVFile(path string) error {
+	err := os.Remove(path)
+	if err != nil {
+		return errors.New("could not remove csv file")
+	}
+
+	return nil
+}
